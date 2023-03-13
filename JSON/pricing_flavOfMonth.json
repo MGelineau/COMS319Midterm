@@ -1,0 +1,9 @@
+{
+    "IceCream" : {
+        "productName" : "Darkest Chocolate",
+        "productPrice" : "$9.99",
+        "productDesc" : "This is the flavor that your girlfriend tells you not to worry about.",
+        "productImg" : "chocIceCream.jpg"
+
+    }
+}
