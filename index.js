@@ -26,5 +26,6 @@ function dataToHTML(data)
         let description = data[productId];
         console.log(description)
     }
+    
 }
 
