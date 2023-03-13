@@ -1,0 +1,24 @@
+{
+    "Ice Cream Flavors": [
+        {
+            "productId": "Violent Vanilla",
+            "Description": "Come and try out some of our world class vanilla ice cream",
+            "priceList": "5.95"
+        },
+        {
+            "productId": "Bossing Brownie",
+            "Description": "Get a look at our new Bossing Brownie flavor",
+            "priceList": "6.95"
+        },
+        {
+            "productId": "Neapolitan",
+            "Description": "Bring it back to the classics with our Neapolitan triple scoop",
+            "priceList": "6.95"
+        },
+        {
+            "productId": "Orgasmic Oreo",
+            "Description": "You can't go wrong with a name like this",
+            "priceList": "6.95"
+        }
+    ]
+}
