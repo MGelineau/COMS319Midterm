@@ -1,4 +1,12 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
 
+#cardGroupPosition{
+  text-align: center;
+}
 
 #topLinks {
   display: block;
@@ -44,7 +52,7 @@
     position: absolute;
     font-size: 40px;
     position: absolute;
-    bottom: 320px;
+    top: 8px;
     left: 94px;
     padding: 5px;
     font-weight:500;
@@ -61,4 +69,7 @@
   display: grid;
   grid-gap: 30px;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  text-align: center;
+  position: relative;
+  left: 350px;
 }
